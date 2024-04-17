@@ -23,7 +23,7 @@ Mis actividades que me gusta realizar en mis tiempos libres son sobre todo creat
    En relacion a mi personalidad soy una persona que le gusta la _comunicacion_ y el _trabajo en equipo_, me apasiona ver en un equipo de personas que tengan tareas especificas para lograr un objetivo final como equipo y que esas mismas tareas/responsabilidades sean distribuidas segun las habilidades que cada persona tiene para llevarla a cabo de la mejor manera posible y con el ingrediente final de un feedback permanente entre los miembros para la _mejora continua_ y para la colaboracion para _solucionar los problemas_ y _trabas_ que surgan en el camino 🔧
   Soy una persona _creativa_ y _curiosa_ que le gusta estar aprendiendo constantemente segun lo que me demanda la situacion para poder crecer profesionalemnte 📖
 
-  **Salduos y espero cruzarnos compartiendo un equipo y haciendo coding juntos 😉**
+  **Saludos , gracias por visitar mi pefil y espero cruzarnos compartiendo un equipo y haciendo coding juntos 😉**
 
   
 
