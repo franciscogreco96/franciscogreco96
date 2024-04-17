@@ -9,7 +9,8 @@ Estoy muy emocionado de crecer en conocimientos y experiencia creando proyectos 
 - CSS,
 - Data Base: MySQL,
 - CRUD: HTTP,
-- Patron de diseño : **MVC**.
+- Patron de diseño : **MVC**,
+- GIT .
   
 ### Mi vida mas allá de la programacion 😅
 Mis actividades que me gusta realizar en mis tiempos libres son sobre todo creativas:
