@@ -2,7 +2,7 @@
 Tengo 28 años de edad y me encuentro creando proyectos de paginas web 💻
 Estoy muy emocionado de crecer en conocimientos y experiencia creando proyectos para poder tener conocimientos rigidos de lo aprendido en el curso de **Back-end developer** que hice en la plataforma de educacion virtual de **Digital House** 🤓
 ### Herramientas de programacion aprendidas en el curso:👨‍💻
-- Java for _Back-end
+- Java for Back-end
 - Spring: Spring Boot, 
 - SCRUM: _agile methodology_,
 - Data Base: MySQL,
