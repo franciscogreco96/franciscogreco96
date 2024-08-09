@@ -1,16 +1,15 @@
 ## Hola soy Francisco Greco 👋 😁
 Tengo 28 años de edad y me encuentro creando proyectos de paginas web 💻
-Estoy muy emocionado de crecer en conocimientos y experiencia creando proyectos para poder tener conocimientos rigidos de lo aprendido en el curso de **full stack web developer** que hice en la plataforma de educacion virtual de **Digital House** 🤓
+Estoy muy emocionado de crecer en conocimientos y experiencia creando proyectos para poder tener conocimientos rigidos de lo aprendido en el curso de **Back-end developer** que hice en la plataforma de educacion virtual de **Digital House** 🤓
 ### Herramientas de programacion aprendidas en el curso:👨‍💻
-- Java Script for _Back-end & Front-end_
-- NodeJS, 
+- Jav for _Back-end
+- Spring: Spring Boot, 
 - SCRUM: _agile methodology_,
-- HTML,
-- CSS,
 - Data Base: MySQL,
 - CRUD: HTTP,
-- Patron de diseño : **MVC**,
-- GIT .
+- Arquitectura : **MVC**,
+- GIT: GitHub,
+- Herramineta de gestión: Trello
   
 ### Mi vida mas allá de la programacion 😅
 Mis actividades que me gusta realizar en mis tiempos libres son sobre todo creativas:
