@@ -16,7 +16,7 @@ Mis actividades que me gusta realizar en mis tiempos libres son sobre todo creat
 - Tocar la **guitarra** y **cantar** 🙊,
  - Ir al **gimnasio**,
   - Salir a **correr** (descubri que me facilita organizar mis ideas locas y darles una forma 💡),
-   - me gusta **leer** mucho sobre contenido que me aporte a mi aprendizaje como por ejemplo leer en idioma **ingles** ya que refuerza mis habilidades en este idioma que tanto me gusta,
+   - Me gusta **leer** mucho sobre contenido que me aporte a mi aprendizaje como por ejemplo leer en idioma **ingles** ya que refuerza mis habilidades en este idioma que tanto me gusta,
    - Y me gusta jugar al **futbol** y **paddle**  🎾 .
 
    ### Mas sobre mi.. 💥
